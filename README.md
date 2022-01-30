@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Leo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning mechanical engineering
-- 💞️ I’m looking to collaborate on data analytics
 
 <!---
 leo0122/leo0122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
